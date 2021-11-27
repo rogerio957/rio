@@ -1,0 +1,5 @@
+
+
+#EXTM3U
+#EXTINF:-Ponte D LuisI
+https://frn.rtsp.me/F9BobTL4xU7ruaSiYIcLkQ/1637430242/hls/bYTDANDA.m3u8?ip=188.37.216.66
